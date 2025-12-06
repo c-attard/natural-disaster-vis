@@ -7,6 +7,8 @@ This project was completed as part of a Data Visualisation assignment, which pos
 Within this broad context, the relationships between global warming, natural disaster frequency and severity, 
 and economic conditions in affected countries have been selected as a specific focus for the project.
 
+The project received a high distinction grade.
+
 ## Data Sources
 
 ### Met Office Hadley Centre HadCRUT5

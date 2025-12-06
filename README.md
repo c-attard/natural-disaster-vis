@@ -1,5 +1,7 @@
 # Climate Related Natural Disaster Visualisations
 
+Created by Catherine Attard
+
 ## Project Context
 
 This project was completed as part of a Data Visualisation assignment, which posed the question 
